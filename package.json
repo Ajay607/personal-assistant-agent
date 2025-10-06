@@ -19,6 +19,10 @@
   },
   "homepage": "https://github.com/Ajay607/personal-assistant-agent#readme",
   "dependencies": {
-    "@langchain/groq": "^0.2.4"
+    "@langchain/anthropic": "^0.3.30",
+    "@langchain/core": "^0.3.78",
+    "@langchain/groq": "^0.2.4",
+    "@langchain/langgraph": "^0.4.9",
+    "zod": "^3.25.76"
   }
 }
